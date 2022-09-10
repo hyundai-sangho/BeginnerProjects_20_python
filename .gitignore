@@ -1,0 +1,8 @@
+# 구글 이메일 비밀번호 등록 파일
+app2.py
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
