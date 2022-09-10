@@ -2,3 +2,4 @@
 app2.py
 
 __pycache__/
+*.py[cod]
