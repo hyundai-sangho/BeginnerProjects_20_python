@@ -1,3 +1,5 @@
+# 원리금균등분할상환 방식의 계산기
+# 참고 : https://www.kbinsure.co.kr/CG407000001.ec
 def main():
     print("이것은 월별 지불 대출 계산기입니다\n")
 
